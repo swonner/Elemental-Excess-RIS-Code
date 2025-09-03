@@ -1,0 +1,2 @@
+Boundary Distance for Extrema Elemental Excess,Elemental Excess Extrema
+26.192800000000034,10.253552810737945
