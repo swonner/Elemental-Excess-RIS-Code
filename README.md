@@ -1,6 +1,8 @@
 # Elemental-Excess-RIS-Code
 This repository compiles code that can be used to calculate an elemental excess (atoms/nm<sup>2</sup>) from one dimensional composition profiles displaying elemental segregation. This code was primarily written in order to quantify radiation-induced segregation in proton-irradiated 316L. 
 
+The key result from this code is the text file: "ELEMENTALEXCESSMinMaxData.txt" which reports the elemental excess for the segregation of a specific element in a line scan and the width of the integration profile utilized to calculate it. 
+
 # Licence information
 
 Elemental Excess RIS Code. Copyright (C) 2025, Sara K Wonner and Pascal Bellon
