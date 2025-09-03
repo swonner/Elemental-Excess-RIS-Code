@@ -1,0 +1,2 @@
+Position (nm),Conecentration Extrema (atomic percent)
+185.3339,11.92266
