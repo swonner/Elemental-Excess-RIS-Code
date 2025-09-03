@@ -3,6 +3,12 @@ This repository compiles code that can be used to calculate an elemental excess 
 
 The key result from this code is the text file: "ELEMENTALEXCESSMinMaxData.txt" which reports the elemental excess for the segregation of a specific element in a line scan and the width of the integration profile utilized to calculate it. 
 
+In this repository, you will find the core python code, which compiles all of the necessary functions utilzied in the elemental excess algorithm. You will also find scripts for 4 different use cases: 
+(1) A single line scan of a single element
+(2) A single line scan with multiple elements
+(3) Multiple line scans with a single element
+(4) Multiple line scans with multiple elements
+
 # Licence information
 
 Elemental Excess RIS Code. Copyright (C) 2025, Sara K Wonner and Pascal Bellon
